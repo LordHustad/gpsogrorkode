@@ -1,6 +1,6 @@
 import math
 import numpy as np
-
+#hei
 def koordinat():      #lager et random koordinat
     longnitue = (str(randint(0,90)) + "," + str(randint(1000,1000000)))
     latitude = (str(randint(0,180)) + "," + str(randint(1000,1000000)))
