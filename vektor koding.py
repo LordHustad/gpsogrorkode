@@ -1,6 +1,5 @@
 import math
 import numpy as np
-import vectormath as vmath
 
 def koordinat():      #lager et random koordinat
     longnitue = (str(randint(0,90)) + "," + str(randint(1000,1000000)))
